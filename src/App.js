@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <History></History>
-      <Informs></Informs>
+      
       <BasicTabs></BasicTabs>
       
    
