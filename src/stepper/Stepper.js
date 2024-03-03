@@ -25,7 +25,7 @@ const steps = [
     ),
   },
   {
-    label: 'Fraemeworks',
+    label: 'Frameworks',
     description: (
         <ul className='ul' style={{ listStyleType: 'none' }}>
           <li >React</li>
