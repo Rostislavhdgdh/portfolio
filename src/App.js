@@ -5,6 +5,7 @@ import History from './history/History';
 
 import Informs from './inform/Inform';
 import BasicTabs from './blocks/Blocks';
+import Soc from './soc/Soc';
 
 
 function App() {
@@ -12,8 +13,9 @@ function App() {
     <div className="App">
       <Header></Header>
       <History></History>
-      
+
       <BasicTabs></BasicTabs>
+      
       
    
     </div>

@@ -8,10 +8,10 @@ const Header = () =>{
     return(
        <div className="header">
         <div className="menu-items">
-  <div className="li_1 button" onClick={handleClick}>Menu</div>
-  <div className="li_2 button" onClick={handleClick}>Blog</div>
-  <div className="li_3 button" onClick={handleClick}>Acces</div>
-  <div className="li_4 button" onClick={handleClick}>Rost</div>
+  <div className="li_1 button" onClick={handleClick}>InWork...</div>
+  <div className="li_2 button" onClick={handleClick}>InWork...</div>
+  <div className="li_3 button" onClick={handleClick}>InWork...</div>
+  <div className="li_4 button" onClick={handleClick}>InWork...</div>
 </div>
         <div className="intro">
         <AutocompleteIntroduction></AutocompleteIntroduction>

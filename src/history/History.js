@@ -2,6 +2,7 @@ import React from "react";
 import Logo from '../img/logo.jpg'
 import './History.css';
 import TextMobileStepper from "../stepper/Stepper";
+import Soc from "../soc/Soc";
 
 
 
@@ -36,6 +37,7 @@ const History = () => {
 
             </div>
             <div className="stepper">
+            <Soc></Soc>
             <TextMobileStepper ></TextMobileStepper>
             </div>
         </div>
